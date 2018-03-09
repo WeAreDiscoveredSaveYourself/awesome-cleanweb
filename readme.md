@@ -5,31 +5,7 @@
 
 <!-- TOC -->
 
-- [Awesome Privacy](#awesome-privacy)
-  - [Anonymous web browsing](#anonymous-web-browsing)
-    - [Domain registration](#domain-registration)
-    - [VPN](#vpn)
-    - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
-    - [Http proxies](#http-proxies)
-    - [Browser testing](#browser-testing)
-  - [Search engines](#search-engines)
-  - [Web browsers](#web-browsers)
-    - [Extensions & plugins for web browsers](#extensions--plugins-for-web-browsers)
-  - [Host file optimizations](#host-file-optimizations)
-  - [Linux distros](#linux-distros)
-  - [Communication](#communication)
-    - [Voice and SMS verification](#voice-and-sms-verification)
-    - [Chat](#chat)
-    - [Video](#video)
-    - [Email](#email)
-    - [Password managment](#password-managment)
-    - [Burner electronics](#burner-electronics)
-    - [Payment](#payment)
-  - [File hosting](#file-hosting)
-    - [Backup](#backup)
-  - [Blogs](#blogs)
-  - [Contribute](#contribute)
-  - [License](#license)
+[TOC]
 
 ## Anonymous web browsing
 
@@ -85,7 +61,7 @@ Hide your IP address
 - [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
 
-## Host file optimizations 
+## Host file optimizations
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
 - [Hosts (Github project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
