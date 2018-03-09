@@ -5,21 +5,59 @@
 
 <!-- TOC -->
 
-[TOC]
+## Fxxk Spams/Noises
 
-## Anonymous web browsing
+### Browsers
 
-Hide your IP address
+### Mobile Devices
 
-### Domain registration
+### PC
 
-- [njal.la](https://njal.la/) - Anonymous domain registration by founder of thepiratebay
 
-### VPN
+## Protecting privacy
 
-- [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
-- [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
-- [Digital Ocean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
+### Browsers
+
+#### Recommended web browsers
+
+- [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
+- [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
+- [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
+- [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
+
+#### Browser testing
+
+- [What is my IP address](http://whatismyipaddress.com/) - Check what IP is exposed to the internet.
+- [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
+- [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
+- [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
+
+#### Extensions
+
+
+- [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing
+- [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
+- [Https everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
+- [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
+- [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
+
+### Mobile devices
+
+### PC
+
+#### Host file optimizations
+
+- [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
+- [Hosts (Github project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
+
+
+#### Linux distros
+
+- [Tails OS](https://tails.boum.org/) - Live operating system that you can start on almost any computer. It aims at preserving your privacy and anonymity.
+- [Qubes OS](https://www.qubes-os.org/) - Reasonably secure operating system.
+- [ipredia](http://www.ipredia.org/) - Linux distro with all network traffic is automatically and transparently encrypted and anonymized.
+- [Whonix](https://www.whonix.org/) - High security method of surfing the internet.
+- [Discreete Linux](https://www.privacy-cd.org/) - Privacy focused flavor of Ubuntu.
 
 ### Mix networks (Tor, etc.)
 
@@ -28,53 +66,15 @@ Hide your IP address
 - [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
 - [The Invisible Internet Project](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
 
-### Http proxies
-
-[Don't use http proxies](https://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-edward_zaborowski-doppelganger.pdf)
-
-### Browser testing
-
-- [What is my IP address](http://whatismyipaddress.com/) - Check what IP is exposed to the internet.
-- [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
-- [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
-- [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
-
-## Search engines
+### Search engines
 
 - [Duck Duck Go](https://duckduckgo.com) - Search engine that doesn't track you.
 - [ixquick](https://www.ixquick.com/) - The world's most private search engine.
 - [Ahmia](https://ahmia.fi/) - Tor search engine.
 - [Have I been pwnd?](https://haveibeenpwned.com/) - See if your email address has been found in a database hack.
 
-## Web browsers
 
-- [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
-- [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
-- [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
-- [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
-
-### Extensions & plugins for web browsers
-
-- [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing
-- [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
-- [Https everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
-- [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
-- [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
-
-## Host file optimizations
-
-- [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
-- [Hosts (Github project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
-
-## Linux distros
-
-- [Tails OS](https://tails.boum.org/) - Live operating system that you can start on almost any computer. It aims at preserving your privacy and anonymity.
-- [Qubes OS](https://www.qubes-os.org/) - Reasonably secure operating system.
-- [ipredia](http://www.ipredia.org/) - Linux distro with all network traffic is automatically and transparently encrypted and anonymized.
-- [Whonix](https://www.whonix.org/) - High security method of surfing the internet.
-- [Discreete Linux](https://www.privacy-cd.org/) - Privacy focused flavor of Ubuntu.
-
-## Communication
+## Encrypted communication
 
 ### Voice and SMS verification
 
